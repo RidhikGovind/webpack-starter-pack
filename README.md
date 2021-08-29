@@ -1,5 +1,7 @@
 ## Webpack starter pack 
 
-Repo containing just the basic code samples for starting webpack projects. 
+Starter repo for starting webpack projects. 
 
 Comes with: 
+- webpack dev server
+- scss loaders
